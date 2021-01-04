@@ -101,9 +101,6 @@ void process(int arr[][COL], int row, const int data[], int size)
 			++i;
 			break;
 		}
-		//end switch
 		}
-	//end for
 	}
-//end of fuction
 }
